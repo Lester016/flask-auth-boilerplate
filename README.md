@@ -1,5 +1,5 @@
 # Flask-Basic-Setup
-A flask setup for more modularize codebase.
+A flask setup/boilerplate for starting a flask project and more modularize codebase.
 
 ### Usage:
 
