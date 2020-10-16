@@ -1,5 +1,8 @@
-# Flask-Basic-Setup
+# flask-authentication-boilerplate
 A flask boilerplate for starting a more modularize codebase.
+
+### Dependencies || Packages
+Flask, Flask-Bcrypt, Flask-Login, Flask-Mail, Flask-SQLAlchemy, Flask-WTF.
 
 ### Usage:
 
