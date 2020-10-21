@@ -1,4 +1,4 @@
-# flask-authentication-boilerplate
+# flask-auth-boilerplate
 A flask boilerplate for starting a more modularize codebase.
 
 ### Dependencies || Packages
