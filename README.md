@@ -4,6 +4,12 @@ A flask boilerplate for starting a more modularize codebase.
 ### Dependencies || Packages
 Flask, Flask-Bcrypt, Flask-Login, Flask-Mail, Flask-SQLAlchemy, Flask-WTF.
 
+### Features
+1.) Authentication
+2.) Database Models
+3.) Error Pages/Error Handler
+4.) Home Page
+
 ### Usage:
 
 1.) git clone this repo.
